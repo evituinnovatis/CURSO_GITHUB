@@ -1,0 +1,12 @@
+## Criar arquivo de rodape.css
+- Criar um arquivo chamado rodape.css para estilizar o rodapé do site.  
+- Adicionar estilos para o rodapé, como cor de fundo, cor do texto, alinhamento, etc.
+- Certificar-se de que o arquivo rodape.css está vinculado corretamente ao arquivo index.html
+
+/* rodape.css */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}                           

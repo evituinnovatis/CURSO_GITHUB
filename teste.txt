@@ -1,4 +1,12 @@
 // Treinamento de IA
 
 1.  Oque é IA
+<<<<<<< Updated upstream
 aaa
+=======
+aaa
+bbb
+ccc
+
+ddd
+>>>>>>> Stashed changes

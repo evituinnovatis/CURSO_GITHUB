@@ -1,4 +1,10 @@
 // Treinamento de IA
 
 1.  Oque é IA
+<<<<<<< HEAD
 aaa
+=======
+aaa
+bbb
+ccc
+>>>>>>> teste_criacao

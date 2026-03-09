@@ -7,4 +7,3 @@ aaa
 aaa
 bbb
 ccc
->>>>>>> teste_criacao
